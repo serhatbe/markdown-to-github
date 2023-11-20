@@ -1,3 +1,4 @@
+title: no pause no hurry! # name of the site
 plugins:
   - jekyll-relative-links
 relative_links:
