@@ -1,4 +1,4 @@
-[…](index)
+[…](../index.md)
 
 Gazpacho is awesome.
 
