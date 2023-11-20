@@ -1,5 +1,3 @@
-# Gazpacho
-
 ## Intro
 
 Gazpacho is awesome.
