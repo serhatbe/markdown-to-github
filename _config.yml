@@ -1,4 +1,4 @@
-title: no pause no hurry! # name of the site
+title: ℂ𝕠𝕟𝕥𝕚𝕟𝕦𝕦𝕞 # name of the site
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -24,9 +24,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Ad elit velit in cupidatat minim fugiat ut reprehenderit est laborum qui nisi. Elit Lorem anim excepteur ea cupidatat quis veniam veniam. Reprehenderit adipisicing aute Lorem consequat nostrud ut exercitation dolor excepteur pariatur. Aliquip nisi ut nostrud aliquip veniam deserunt nulla cupidatat aute consequat ea veniam. Cillum reprehenderit deserunt elit Lorem anim consequat. Irure velit commodo pariatur cillum aliqua ad nulla.
 
 # Build settings
 
@@ -62,7 +60,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 

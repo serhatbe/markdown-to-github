@@ -1,0 +1,1 @@
+{"rule":"A_NNS","sentence":"^\\QContinuum is a simple notes repository where I irregularly post my notes; a new start which is marked by 2023-May-15.\\E$"}
