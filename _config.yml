@@ -15,5 +15,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 #remote_theme: riggraz/no-style-please
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: plum  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "plum"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
