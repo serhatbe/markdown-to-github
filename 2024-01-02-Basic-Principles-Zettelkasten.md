@@ -1,7 +1,5 @@
 ---
 title: Basic Principles of a Zettelkasten
-subtitle: "[![home](home-50.png)](index.html)"
-author: no hurry, no pause.
 date: 2024-01-02
 tags:
   - zettelkasten
@@ -22,5 +20,3 @@ tags:
 From [Obsidian Zettelkasten Starter Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) and [@ahrensHowTakeSmart2022]
 
 ### Reference
-
-

@@ -1,7 +1,5 @@
 ---
 title: What I'm up to now
-subtitle: "[![home](home-50.png)](index.html)"
-author: "*Inspired by [Derek Sivers](https://sive.rs/nowff)*"
 date: 2024-02-20
 tags:
   - now
