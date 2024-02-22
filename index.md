@@ -4,6 +4,8 @@ subtitle: "[![home](home-50.png)](index.html)"
 author: no hurry, no pause.
 date: 2024-02-21
 ---
+
+- [Murakami](2023-12-08-Murakami.md)
 - [2024-02-20: Tao Te Ching](2024-02-20-Tao-Te-Ching.html)
 - [2024-02-12: Ikigai](2024-02-12-ikigai.html)
 
